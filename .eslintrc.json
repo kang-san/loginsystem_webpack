@@ -18,7 +18,8 @@
   "rules": {
     "semi": ["error", "always"],
     "quotes": ["error", "single"],
-    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "import/export": 0
   },
   "settings": {
     "react": {
