@@ -178,7 +178,7 @@ module.exports = (_env, argv) => {
             // 인덱스 파일 설정
             // index: 'index.html',
             // 포트 번호 설정
-            port: 9000,
+            port: 4000,
             // 핫 모듈 교체(HMR) 활성화 설정
             hot: true,
             // gzip 압축 활성화
